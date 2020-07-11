@@ -1,0 +1,73 @@
+@font-face {
+    font-family: Mitra;
+    font-weight: normal;
+    font-style: normal;
+    src: url("fonts/MitraWeb-Regular.eot?2");
+    src: url("fonts/MitraWeb-Regular.eot?2#iefix") format("embedded-opentype"),
+    url("fonts/MitraWeb-Regular.woff?2") format("woff")
+}
+
+@font-face {
+    font-family: Mitra;
+    font-weight: bold;
+    font-style: normal;
+    src: url("fonts/MitraWeb-Bold.eot?2");
+    src: url("fonts/MitraWeb-Bold.eot?2#iefix") format("embedded-opentype"),
+    url("fonts/MitraWeb-Bold.woff?2") format("woff")
+}
+
+@font-face {
+    font-family: IranSans;
+    font-style: normal;
+    font-weight: bold;
+    src: url("fonts/IranSansWeb_Bold.eot");
+    src: url("fonts/IranSansWeb_Bold.eot?#iefix") format("embedded-opentype"),
+    url("fonts/IranSansWeb_Bold.woff2") format("woff2"),
+    url("fonts/IranSansWeb_Bold.woff") format("woff"),
+    url("fonts/IranSansWeb_Bold.ttf") format("truetype")
+}
+
+@font-face {
+    font-family: IranSans;
+    font-style: normal;
+    font-weight: 500;
+    src: url("fonts/IranSansWeb_Medium.eot");
+    src: url("fonts/IranSansWeb_Medium.eot?#iefix") format("embedded-opentype"),
+    url("fonts/IranSansWeb_Medium.woff2") format("woff2"),
+    url("fonts/IranSansWeb_Medium.woff") format("woff"),
+    url("fonts/IranSansWeb_Medium.ttf") format("truetype")
+}
+
+@font-face {
+    font-family: IranSans;
+    font-style: normal;
+    font-weight: 300;
+    src: url("fonts/IranSansWeb_Light.eot");
+    src: url("fonts/IranSansWeb_Light.eot?#iefix") format("embedded-opentype"),
+    url("fonts/IranSansWeb_Light.woff2") format("woff2"),
+    url("fonts/IranSansWeb_Light.woff") format("woff"),
+    url("fonts/IranSansWeb_Light.ttf") format("truetype")
+}
+
+@font-face {
+    font-family: IranSans;
+    font-style: normal;
+    font-weight: 200;
+    src: url("fonts/IranSansWeb_UltraLight.eot");
+    src: url("fonts/IranSansWeb_UltraLight.eot?#iefix") format("embedded-opentype"),
+    url("fonts/IranSansWeb_UltraLight.woff2") format("woff2"),
+    url("fonts/IranSansWeb_UltraLight.woff") format("woff"),
+    url("fonts/IranSansWeb_UltraLight.ttf") format("truetype")
+}
+
+@font-face {
+    font-family: IranSans;
+    font-style: normal;
+    font-weight: normal;
+    src: url("fonts/IranSansWeb.eot");
+    src: url("fonts/IranSansWeb.eot?#iefix") format("embedded-opentype"),
+    url("fonts/IranSansWeb.woff2") format("woff2"),
+    url("fonts/IranSansWeb.woff") format("woff"),
+    url("fonts/IranSansWeb.ttf") format("truetype")
+}
+
